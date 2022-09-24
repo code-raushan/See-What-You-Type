@@ -4,7 +4,7 @@
 
 This project uses simple DOM Manipulations to achieve the purpose.
 
-The deployed link is [here]()
+The deployed link is [here](seeyoutype.netlify.app)
 
 ![project](Image/See_What_You_Type.png)
 
